@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdjns.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="wireframe.css">
+        <Title>Wireframe practice</Title>
+    </head>
+    <body>
+       <h1>App Academy</h1>
+       <h2>Sign in</h2>
+
+       <div class="contents">
+        <p>HOME</p>
+        <p>NEWS</p>
+        <p>UPDATES</p>
+        <p>MORE</p>
+       </div>
+       <h3>I am become death, destroyer of worlds</h3>
+       <p>by Vishnu (bhagavad ghita)</p>
+       <div>
+        <a href="#" class="fa fa-facebook"></a>
+        <a href="#" class="fa fa-twitter"></a>
+        <a class="share">Share</a>
+       </div>
+
+       <img src="" alt="">
+
+       <h3>The lore</h3>
+       <p>As he witnessed the first detonation of a nuclear weapon on July 16, 1945, a piece of Hindu scripture ran through the mind of Robert Oppenheimer: “Now I am become Death, the destroyer of worlds”. It is, perhaps, the most well-known line from the Bhagavad-Gita, but also the most misunderstood.</p>
+       <p>In Hinduism, which has a non-linear concept of time, the great god is not only involved in the creation, but also the dissolution. In verse thirty-two, Krishna speaks the line brought to global attention by Oppenheimer. "The quotation 'Now I am become death, the destroyer of worlds', is literally the world-destroying time,” explains Thompson, adding that Oppenheimer’s Sanskrit teacher chose to translate “world-destroying time” as “death”, a common interpretation. Its meaning is simple: irrespective of what Arjuna does, everything is in the hands of the divine.
+
+        "Arjuna is a soldier, he has a duty to fight. Krishna not Arjuna will determine who lives and who dies and Arjuna should neither mourn nor rejoice over what fate has in store, but should be sublimely unattached to such results,” says Thompson. “And ultimately the most important thing is he should be devoted to Krishna. His faith will save Arjuna's soul." But Oppenheimer, seemingly, was never able to achieve this peace. "In some sort of crude sense which no vulgarity, no humour, no overstatements can quite extinguish," he said two years after the Trinity explosion, "the physicists have known sin; and this is a knowledge which they cannot lose.”</p>
+    </body>
+</html>

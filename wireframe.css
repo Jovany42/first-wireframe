@@ -1,0 +1,111 @@
+body {
+   border: 1px solid black;
+   width: 1000px;
+   margin: 20px auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+.button {
+    margin: 12px;
+    align-content: end;
+    border: 2px solid black;
+    background-color: white;
+    width: 100px;
+}
+
+h1 {
+    border: 2px solid black;
+    font-size: 1.5em;
+    margin-left: 12px;
+    margin-top: 12px;
+    padding: 5px;
+}
+
+.cont {
+    display: flex;
+    justify-content: space-evenly;
+    color: black;
+}
+.contents {
+    justify-content: space-evenly;
+    font-weight: 700;
+    color: black;
+}
+
+.divider {
+    border-bottom: 2px solid black;
+    margin: 4px;
+}
+
+img {
+    display: block;
+    width: 700px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quote {
+    border: 2px solid black;
+    padding: 20px;
+    width: 700px;
+    font-size: large;
+    margin: auto;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.fa-facebook {
+    background: #3b5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55acee;
+    color: white;
+}
+
+.share {
+    display: flex;
+    justify-content: end;
+    margin-right: 100px;
+    align-items: center;
+}
+
+.shareShare {
+    display: flex;
+    border: 2px solid black;
+    width: 80px;
+    height: 35px;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.lore {
+    padding-right: 100px;
+    padding-left: 100px;
+
+}
+
+.para {
+    text-align: justify;
+}
+
+.moreInfo {
+    display: flex;
+
+    border: 1px solid black;
+    width: 700px;
+    margin: auto;
+}
